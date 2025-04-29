@@ -7,3 +7,5 @@ simple GUI
 #easy choice: to use only the min_max algorithm 
 #medium choice: to use only the alpha-beta algorithm 
 #hard choice: to use both the alpha-beta and min_max algorithms
+#as in the Terminal, the path and the tree of the game and board are displayed ( "printed" ) 
+
